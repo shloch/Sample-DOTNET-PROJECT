@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "e31e4Un0UfOhRTrME61llte6nwfB/wzAouFw/ZXQGe7uuijAVI69tDYLcylr7wLWzjpn5wd0+jOMP7jUA8ud0g==",
+  "dgSpecHash": "dcFzjEtMK/F+NZDSvVqPaQpZgnUcM11ZtZpAB8LBGcusEnO274vRq7pDpL/hVJJ63Qw96RURis7zM77N5XYpvw==",
   "success": true,
-  "projectFilePath": "/Users/sheylouis/Desktop/FRANCE/WEBITECH/COURS/C-SHARP/MvcMovie/MvcMovie.csproj",
+  "projectFilePath": "C:\\dev\\C#\\Sample-DOTNET-PROJECT\\MvcMovie.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

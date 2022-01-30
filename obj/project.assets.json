@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/sheylouis/.nuget/packages/": {}
+    "C:\\Users\\AKD\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/sheylouis/Desktop/FRANCE/WEBITECH/COURS/C-SHARP/MvcMovie/MvcMovie.csproj",
+      "projectUniqueName": "C:\\dev\\C#\\Sample-DOTNET-PROJECT\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "/Users/sheylouis/Desktop/FRANCE/WEBITECH/COURS/C-SHARP/MvcMovie/MvcMovie.csproj",
-      "packagesPath": "/Users/sheylouis/.nuget/packages/",
-      "outputPath": "/Users/sheylouis/Desktop/FRANCE/WEBITECH/COURS/C-SHARP/MvcMovie/obj/",
+      "projectPath": "C:\\dev\\C#\\Sample-DOTNET-PROJECT\\MvcMovie.csproj",
+      "packagesPath": "C:\\Users\\AKD\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\C#\\Sample-DOTNET-PROJECT\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/sheylouis/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\AKD\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
